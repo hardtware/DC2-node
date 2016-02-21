@@ -1,0 +1,25 @@
+{
+  "name": "dc2-node",
+  "version": "1.0.1",
+  "description": "discovery and config server for DC2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hardtware/DC2-node"
+  },
+  "author": "dick@hardtware.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hardtware/DC2-node/issues"
+  },
+  "homepage": "https://github.com/hardtware/DC2-node",
+  "dependencies": {
+    "express": "^4.13.4",
+    "getmac": "^1.0.7",
+    "ip": "^1.1.0",
+    "request": "^2.69.0"
+  }
+}
