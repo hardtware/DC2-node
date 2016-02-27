@@ -1,6 +1,6 @@
 {
   "name": "dc2-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "discovery and config server for DC2",
   "main": "index.js",
   "scripts": {
